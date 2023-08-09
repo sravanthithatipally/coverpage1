@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.todo-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.todo-card-centre {
+    text-align: center;
+}
+
+.todo-card-heading {
+    font-family: "roboto";
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+.todolist-para {
+    font-size: 16px;
+    color: white;
+    font-family: "roboto";
+}
+
+.todocard-head {
+    color: white;
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.todolist-button {
+    color: yellow;
+    background-color: pink;
+    height: 20px;
+    width: 40px;
+    font-weight: bold;
+}
+
+.todolist-b {
+    text-align: center;
+}
+
+.todolist-caption {
+    font-family: "roboto";
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
